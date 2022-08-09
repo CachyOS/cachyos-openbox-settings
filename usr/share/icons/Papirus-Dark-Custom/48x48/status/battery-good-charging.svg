@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48" height="48" inkscape:version="1.1 (c68e22c387, 2021-05-23)" sodipodi:docname="battery-good-charging.svg" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
+ <sodipodi:namedview bordercolor="#666666" borderopacity="1.0" inkscape:current-layer="svg58" inkscape:cx="30.265683" inkscape:cy="36.177122" inkscape:pagecheckerboard="0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="718" inkscape:window-maximized="1" inkscape:window-width="1301" inkscape:window-x="55" inkscape:window-y="10" inkscape:zoom="22.583333" pagecolor="#ffffff" showgrid="false"/>
+ <rect x="8" y="9" width="32" height="36" rx="2" ry="2" fill="#4c566a" opacity=".2"/>
+ <rect x="8" y="8" width="32" height="36" rx="2" ry="2" fill="#4c566a"/>
+ <rect x="14" y="4" width="20" height="4" fill="#434c5e"/>
+ <path d="m11 23v8h26v-8zm0 10v8h26v-8z" fill="#3b4252" opacity=".2"/>
+ <path d="m11 12v8h26v-8z" fill="#373e4d" opacity=".35"/>
+ <path d="m11 22v8h26v-8z" fill="#2be491"/>
+ <path d="m11 32v8h26v-8z" fill="#2be491"/>
+ <path d="m14 4v1h20v-1h-20z" fill="#fff" opacity=".2"/>
+ <path d="m11 22v1h26v-1zm0 10v1h26v-1z" fill="#fff" opacity=".2"/>
+ <path d="m35.999 27c-5.539 0-9.999 4.46-9.999 10s4.4596 10 9.9991 10 9.9991-4.46 9.9991-10-4.459-10-9.999-10z" fill="#d8a6f4" opacity=".2"/>
+ <path d="m35.999 26c-5.539 0-9.999 4.46-9.999 10s4.4596 10 9.9991 10 9.9991-4.46 9.9991-10-4.459-10-9.999-10z" fill="#cf8ef4"/>
+ <path d="m35.999 30v4h4l-5 8v-4h-4z" fill="#4c566a"/>
+</svg>

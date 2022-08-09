@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48" height="48" inkscape:version="1.1 (c68e22c387, 2021-05-23)" sodipodi:docname="notification-battery-low.svg" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
+ <sodipodi:namedview bordercolor="#666666" borderopacity="1.0" inkscape:current-layer="svg24" inkscape:cx="41.393144" inkscape:cy="24.923557" inkscape:pagecheckerboard="0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="718" inkscape:window-maximized="1" inkscape:window-width="1301" inkscape:window-x="55" inkscape:window-y="10" inkscape:zoom="7.9844141" pagecolor="#ffffff" showgrid="false"/>
+ <path d="m8 41v2c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v-2c0 1.108-0.892 2-2 2h-28c-1.108 0-2-0.892-2-2z" fill="#f9f9f9" opacity=".2"/>
+ <path transform="matrix(0,-1,-1,0,0,0)" d="m-42-40h32c1.108 0 2 0.892 2 2v28c0 1.108-0.892 2-2 2h-32c-1.108 0-2-0.892-2-2v-28c0-1.108 0.892-2 2-2z" fill="#f4f4f4"/>
+ <rect x="14" y="4" width="20" height="4" fill="#f4f4f4"/>
+ <rect x="11" y="32" width="26" height="8" fill="#fff" opacity=".2"/>
+ <rect x="11" y="31" width="26" height="8" fill="#fa5aa4"/>
+ <rect x="11" y="22" width="26" height="8" fill="#fff" opacity=".2"/>
+ <rect x="11" y="21" width="26" height="8" fill="#4c566a"/>
+ <rect x="11" y="12" width="26" height="8" fill="#fff" opacity=".2"/>
+ <rect x="11" y="11" width="26" height="8" fill="#4c566a"/>
+ <path d="m14 4v1h20v-1h-20z" fill="#fff" opacity=".2"/>
+ <path d="m10 8c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h28c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-28z" fill="#fff" opacity=".1"/>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48" height="48" inkscape:version="1.1 (c68e22c387, 2021-05-23)" sodipodi:docname="network-wired-disconnected.svg" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
+ <sodipodi:namedview bordercolor="#666666" borderopacity="1.0" inkscape:current-layer="svg50" inkscape:cx="23.690037" inkscape:cy="28.870849" inkscape:pagecheckerboard="0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="718" inkscape:window-maximized="1" inkscape:window-width="1301" inkscape:window-x="55" inkscape:window-y="10" inkscape:zoom="11.291667" pagecolor="#ffffff" showgrid="false"/>
+ <path d="m16 42-4-4h-5c-1.662 0-3-1.338-3-3v-24c0-1.662 1.338-3 3-3h34c1.662 0 3 1.338 3 3v24c0 1.662-1.338 3-3 3h-5l-4 4z" fill="#d8a6f4" opacity=".2"/>
+ <path d="m16 41-4-4h-5c-1.662 0-3-1.338-3-3v-24c0-1.662 1.338-3 3-3h34c1.662 0 3 1.338 3 3v24c0 1.662-1.338 3-3 3h-5l-4 4z" fill="#d8a6f4"/>
+ <path d="m20 35-4.5-4h-5.5v-18h28v18h-6l-4 4z" fill="#f4f4f4" opacity=".6"/>
+ <g transform="scale(1,-1)" fill="#f8c44e">
+  <rect x="15" y="-16" width="2" height="3"/>
+  <rect x="19" y="-16" width="2" height="3"/>
+  <rect x="23" y="-16" width="2" height="3"/>
+  <rect x="27" y="-16" width="2" height="3"/>
+  <rect x="31" y="-16" width="2" height="3"/>
+ </g>
+ <path d="m7 7c-1.662 0-3 1.338-3 3v1c0-1.662 1.338-3 3-3h34c1.662 0 3 1.338 3 3v-1c0-1.662-1.338-3-3-3h-34z" fill="#fff" opacity=".2"/>
+ <path d="m10 31v1h5.5l4.5 4h8l4-4h6v-1h-6l-4 4h-8l-4.5-4z" fill="#fff" opacity=".2"/>
+ <circle cx="37" cy="35" r="10" fill="#fa5aa4"/>
+ <path d="M 46.979,35.414 A 10,10 0 0 1 37,45 10,10 0 0 1 27.021,35.586 10,10 0 0 0 27,36 10,10 0 0 0 37,46 10,10 0 0 0 47,36 10,10 0 0 0 46.979,35.414 Z" fill="#fa74b2" opacity=".2"/>
+ <g transform="matrix(.70711 -.70711 .70711 .70711 -12.497 33.846)" fill="#fff">
+  <rect x="28" y="35" width="12" height="2"/>
+  <rect transform="rotate(-90)" x="-42" y="33" width="12" height="2"/>
+ </g>
+</svg>

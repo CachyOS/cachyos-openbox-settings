@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16" height="16" inkscape:version="1.1 (c68e22c387, 2021-05-23)" sodipodi:docname="phone.svg" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
+ <sodipodi:namedview bordercolor="#666666" borderopacity="1.0" inkscape:current-layer="svg16" inkscape:cx="19.246563" inkscape:cy="7.7781746" inkscape:guide-bbox="true" inkscape:pagecheckerboard="0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="718" inkscape:window-maximized="1" inkscape:window-width="1301" inkscape:window-x="55" inkscape:window-y="10" inkscape:zoom="22.627417" pagecolor="#ffffff" showgrid="false" showguides="true">
+  <inkscape:grid type="xygrid"/>
+  <sodipodi:guide orientation="1,0" position="2,2"/>
+  <sodipodi:guide orientation="0,-1" position="2,14"/>
+  <sodipodi:guide orientation="1,0" position="14,14"/>
+  <sodipodi:guide orientation="0,-1" position="14,2"/>
+ </sodipodi:namedview>
+ <path transform="matrix(.79167 0 0 -.73183 6.4183 6.5382)" d="m9.0984 2.0996c-0.40996 0.70984-6.2798 4.0977-7.0996 4.0976-0.81972-1.172e-4 -6.6886-3.3897-7.0984-4.0996-0.40976-0.70996-0.40879-7.4873 0.00117-8.1972 0.40996-0.70984 6.2798-4.0977 7.0996-4.0976 0.81972 1.17e-4 6.6886 3.3897 7.0984 4.0996 0.40976 0.70996 0.40879 7.4873-0.00117 8.1972z" fill="#fa74b2" fill-rule="evenodd" stroke="#f9f9f9" stroke-width="5.1955" style="paint-order:stroke fill markers" inkscape:flatsided="true" inkscape:randomized="0" inkscape:rounded="0.1" sodipodi:arg1="0.52374183" sodipodi:arg2="1.0473407" sodipodi:cx="2" sodipodi:cy="-2" sodipodi:r1="8.1971874" sodipodi:r2="6.777071" sodipodi:sides="6" sodipodi:type="star"/>
+</svg>

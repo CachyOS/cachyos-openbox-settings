@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16" height="16" inkscape:version="1.1 (c68e22c387, 2021-05-23)" sodipodi:docname="diodon.svg" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
+ <sodipodi:namedview bordercolor="#666666" borderopacity="1.0" inkscape:current-layer="svg16" inkscape:cx="9.390625" inkscape:cy="7.5625" inkscape:guide-bbox="true" inkscape:pagecheckerboard="0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="718" inkscape:window-maximized="1" inkscape:window-width="1301" inkscape:window-x="55" inkscape:window-y="10" inkscape:zoom="32" pagecolor="#ffffff" showgrid="false" showguides="true">
+  <inkscape:grid type="xygrid"/>
+  <sodipodi:guide orientation="1,0" position="2,2"/>
+  <sodipodi:guide orientation="0,-1" position="2,14"/>
+  <sodipodi:guide orientation="1,0" position="14,14"/>
+  <sodipodi:guide orientation="0,-1" position="14,2"/>
+ </sodipodi:namedview>
+ <circle cx="8.0025" cy="8.0047" r="5.9992" fill="#cf8ef4" stroke-width="1.1095"/>
+</svg>

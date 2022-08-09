@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48" height="48" inkscape:version="1.1 (c68e22c387, 2021-05-23)" sodipodi:docname="bluetooth.svg" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
+ <sodipodi:namedview bordercolor="#666666" borderopacity="1.0" inkscape:current-layer="svg52" inkscape:cx="-6.5092251" inkscape:cy="28.428044" inkscape:pagecheckerboard="0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="718" inkscape:window-maximized="1" inkscape:window-width="1301" inkscape:window-x="55" inkscape:window-y="10" inkscape:zoom="11.291667" pagecolor="#ffffff" showgrid="false"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-44" y="-38" width="40" height="28" rx="14" ry="14" fill="#63c5ea"/>
+ <path d="m17 19 14 13-7 7v-27l7 7-14 13" fill="none" opacity=".2" stroke="#f9f9f9" stroke-linecap="square" stroke-width="2"/>
+ <path d="m17 18 14 13-7 7v-27l7 7-14 13" fill="none" stroke="#fff" stroke-linecap="square" stroke-width="2"/>
+ <path d="m24 4c-7.756 0-14 6.244-14 14v1c0-7.756 6.244-14 14-14s14 6.244 14 14v-1c0-7.756-6.244-14-14-14z" fill="#fff" opacity=".1"/>
+ <path d="m10 30v1c0 7.756 6.244 14 14 14s14-6.244 14-14v-1c0 7.756-6.244 14-14 14s-14-6.244-14-14z" fill="#a1d5f7" opacity=".2"/>
+</svg>

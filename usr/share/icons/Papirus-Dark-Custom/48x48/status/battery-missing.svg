@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48" height="48" inkscape:version="1.1 (c68e22c387, 2021-05-23)" sodipodi:docname="battery-missing.svg" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
+ <sodipodi:namedview bordercolor="#666666" borderopacity="1.0" inkscape:current-layer="svg24" inkscape:cx="59.428281" inkscape:cy="18.035137" inkscape:pagecheckerboard="0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="718" inkscape:window-maximized="1" inkscape:window-width="1301" inkscape:window-x="55" inkscape:window-y="10" inkscape:zoom="7.9844141" pagecolor="#ffffff" showgrid="false"/>
+ <rect x="8" y="9" width="32" height="36" rx="2" ry="2" fill="#4c566a" opacity=".2"/>
+ <rect x="8" y="8" width="32" height="36" rx="2" ry="2" fill="#4c566a"/>
+ <rect x="14" y="4" width="20" height="4" fill="#434c5e"/>
+ <path d="m11 12v8h26v-8z" fill="#373e4d" opacity=".35"/>
+ <path d="m11 22v8h26v-8z" fill="#373e4d" opacity=".35"/>
+ <path d="m14 4v1h20v-1z" fill="#fff" opacity=".2"/>
+ <path d="m11 32v8h26v-8z" fill="#373e4d" opacity=".35"/>
+ <circle cx="36" cy="36" r="10" fill="#fa5aa4"/>
+ <path d="M 45.979,36.414 A 10,10 0 0 1 36,46 10,10 0 0 1 26.021,36.586 10,10 0 0 0 26,37 10,10 0 0 0 36,47 10,10 0 0 0 46,37 10,10 0 0 0 45.979,36.414 Z" fill="#fa74b2" opacity=".2"/>
+ <rect transform="rotate(-45)" x="-6.18" y="50.1" width="12" height="2" fill="#fff"/>
+ <rect transform="rotate(225)" x="-57.1" y="-1.18" width="12" height="2" fill="#fff"/>
+</svg>

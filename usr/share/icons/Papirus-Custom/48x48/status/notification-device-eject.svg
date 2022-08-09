@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48" height="48" inkscape:version="1.1 (c68e22c387, 2021-05-23)" sodipodi:docname="notification-device-eject.svg" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
+ <sodipodi:namedview bordercolor="#666666" borderopacity="1.0" inkscape:current-layer="svg12" inkscape:cx="-19.412821" inkscape:cy="9.2680564" inkscape:pagecheckerboard="0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="718" inkscape:window-maximized="1" inkscape:window-width="1301" inkscape:window-x="55" inkscape:window-y="10" inkscape:zoom="3.992207" pagecolor="#ffffff" showgrid="false"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-44" y="-40" width="40" height="32" rx="2" ry="2" fill="#d8a6f4"/>
+ <path d="m10 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h28c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-28z" fill="#fff" opacity=".1"/>
+ <path d="m10 45c-1.108 0-2-0.892-2-2v-1c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v1c0 1.108-0.892 2-2 2h-28z" fill="#d8a6f4" opacity=".2"/>
+ <path d="m16 25h16v3h-16zm8-12 8 9h-16z" fill="#fff" opacity=".1"/>
+ <path d="m16 24h16v3h-16zm8-12 8 9h-16z" fill="#f4f4f4"/>
+</svg>

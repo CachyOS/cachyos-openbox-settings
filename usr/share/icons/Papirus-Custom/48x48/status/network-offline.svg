@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48" height="48" inkscape:version="1.1 (c68e22c387, 2021-05-23)" sodipodi:docname="network-offline.svg" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
+ <sodipodi:namedview bordercolor="#666666" borderopacity="1.0" inkscape:current-layer="svg76" inkscape:cx="14.479705" inkscape:cy="27.099631" inkscape:pagecheckerboard="0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="718" inkscape:window-maximized="1" inkscape:window-width="1301" inkscape:window-x="55" inkscape:window-y="10" inkscape:zoom="11.291667" pagecolor="#ffffff" showgrid="false"/>
+ <path d="m7 7s-3 0-3 3v24s0 3 3 3h5l4 4h16l4-4h5s3 0 3-3v-24c0-3-3-3-3-3z" fill="#d8a6f4"/>
+ <path d="m10 14h28v18h-4.484l-4 4h-11.031l-4-4h-4.4854z" fill="#fff" opacity=".4"/>
+ <path d="m10 13h28v18h-4.484l-4 4h-11.031l-4-4h-4.4854z" fill="#f4f4f4"/>
+ <path d="m7 7s-3 0-3 3v1c0-3 3-3 3-3h34s3 0 3 3v-1c0-3-3-3-3-3z" fill="#fff" opacity=".1"/>
+ <path d="m4 34v1s0 3 3 3h5l4 4h16l4-4h5s3 0 3-3v-1c0 3-3 3-3 3h-5l-4 4h-16l-4-4h-5c-3 0-3-3-3-3z" fill="#d8a6f4" opacity=".2"/>
+ <circle cx="37" cy="35" r="10" fill="#fa5aa4"/>
+ <path d="M 46.979,35.414 A 10,10 0 0 1 37,45 10,10 0 0 1 27.021,35.586 10,10 0 0 0 27,36 10,10 0 0 0 37,46 10,10 0 0 0 47,36 10,10 0 0 0 46.979,35.414 Z" fill="#fa74b2" opacity=".2"/>
+ <g transform="matrix(.70711 -.70711 .70711 .70711 -12.497 33.846)" fill="#fff">
+  <rect x="28" y="35" width="12" height="2"/>
+  <rect transform="rotate(-90)" x="-42" y="33" width="12" height="2"/>
+ </g>
+</svg>
